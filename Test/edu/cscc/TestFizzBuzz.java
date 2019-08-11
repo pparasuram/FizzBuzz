@@ -31,5 +31,6 @@ public class TestFizzBuzz {
         assertEquals("fizz", fizzBuzzTest.doFizzBuzz());
         assertNull(new FizzBuzzNew());
         // added a comment
+        // one more
     }
 }
